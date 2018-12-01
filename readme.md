@@ -40,3 +40,4 @@
 | Devoxx | Kraków | http://devoxx.pl/ | https://www.youtube.com/watch?v=5VFOYM6DlJc&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH |
 | Confidence | Kraków | https://confidence-conference.org/ | https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=8&view=50 |
 | Atmosphere Conference | Warszawa | https://atmosphere-conference.com/ | https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=11&view=50 |
+| Greenfield Conference | Zielona Góra | http://greenfieldconf.pl/ | https://www.youtube.com/channel/UChG7hsrjUYyYG13AkSIfQIw/videos |
