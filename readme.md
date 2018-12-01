@@ -23,8 +23,8 @@
 | SegFault   | Warszawa | http://segfault.events/ |
 | SegFault   | Łódź   | http://segfault.events/ |
 | SegFault   | Wrocław   | http://segfault.events/|
-| CoreDump   | Kraków | http://segfault.events/ |
-| KarieraIT   | Kraków | http://segfault.events/ |
+| CoreDump   | Kraków | http://coredump.events |
+| KarieraIT   | Kraków |   |
 | Warszawskie Dni Informatyki |   Warszawa   | https://warszawskiedniinformatyki.pl/ |
 | Wroc# | Wrocław  | https://www.wrocsharp.com/ |
 | DevConf | Kraków  | http://devconf.pl |
