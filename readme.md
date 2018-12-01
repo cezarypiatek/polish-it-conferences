@@ -44,4 +44,6 @@
 |Frontend Con | Warszawa | https://frontend-con.io/ ||
 | JS Poland | Warszawa | https://js-poland.pl ||
 | Sphere.it | Kraków | https://sphere.it/ ||
+| Future Dev Day | Gliwice | https://futuredevday.pl/ | https://www.youtube.com/channel/UCrsv5LuxRfbAUleQRnAC0gw/videos |
+| Test Dive | Kraków | http://www.testdive.pl/ | https://www.youtube.com/channel/UC-8YqwFBC15rMjJRzt3OY9A/videos |
 
