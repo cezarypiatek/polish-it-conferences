@@ -13,7 +13,7 @@
 | 4Developers |   Łódź    | https://lodz.4developers.org.pl/ ||
 | Get .NET |   Łódź        | https://konferencjaget.net/pl/lodz ||
 | Get.NET |    Gdańsk     | https://konferencjaget.net/pl/gdansk ||   
-| Dni Informatyki PK  |  Kraków ||       
+| Dni Informatyki PK  |  Kraków | https://itad-pk.github.io/ |       
 | InfoMEET   | Kraków | https://www.infomeet.pl/ ||
 | InfoMEET   | Wrocław | https://www.infomeet.pl/ ||
 | Programistok  |  Białystok | http://programistok.org/ | https://www.youtube.com/user/programistok/videos |
