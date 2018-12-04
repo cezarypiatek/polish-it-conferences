@@ -47,3 +47,4 @@
 | Future Dev Day | Gliwice | https://futuredevday.pl/ | https://www.youtube.com/channel/UCrsv5LuxRfbAUleQRnAC0gw/videos |
 | Test Dive | Kraków | http://www.testdive.pl/ | https://www.youtube.com/channel/UC-8YqwFBC15rMjJRzt3OY9A/videos |
 |TestWarez| Zakopane |https://www.testwarez.pl/||
+|BSide Warsaw | Warszawa | https://securitybsides.pl/ | https://www.youtube.com/channel/UCexBIw_UJOz-H1PD9I9zkGw/videos |
