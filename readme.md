@@ -19,9 +19,9 @@
 | Programistok  |  Białystok || http://programistok.org/ | https://www.youtube.com/user/programistok/videos |
 | dotnetconfPL   | Internet  || https://dotnetconf.pl/ | https://www.youtube.com/channel/UCs3oPPpRdETQTsxVF-Wvqbg/videos |
 | MakingSoftware  | Kraków || http://www.makingsoftware.pl/ | https://www.youtube.com/channel/UCO2SsvexXR8TkLwjU08EMMA/videos |          
-| SegFault   | Gdańsk || http://segfault.events/ | https://www.youtube.com/channel/UCV38Do_3C5uVk3lWePkyxTA/videos |
+| SegFault   | Gdańsk |2019-03-14 - 2019-03-15| http://segfault.events/ | https://www.youtube.com/channel/UCV38Do_3C5uVk3lWePkyxTA/videos |
 | SegFault   | Warszawa || http://segfault.events/ ||
-| SegFault   | Łódź   || http://segfault.events/ ||
+| SegFault   | Łódź   |2019-04-26| http://segfault.events/ ||
 | SegFault   | Wrocław   || http://segfault.events/||
 | CoreDump   | Kraków || http://coredump.events ||
 | KarieraIT   | Kraków ||   ||
@@ -34,16 +34,16 @@
 | Dotnetos | Warszawa || https://dotnetos.org/ ||
 | DoIT | Wrocław || http://doit-conf.pl/ ||
 | Confitura | Warszawa || https://2018.confitura.pl/ | https://www.youtube.com/user/confiturapl/videos |
-| GeeCON | Kraków || https://geecon.org/ | https://www.youtube.com/channel/UCVnJYdr91EZW8YvtMrxB1bg/videos |
+| GeeCON | Kraków |2019-05-15 - 2019-05-17| https://geecon.org/ | https://www.youtube.com/channel/UCVnJYdr91EZW8YvtMrxB1bg/videos |
 | {j}dd | Kraków || https://www.jdd.org.pl |
 | Lambda Days | Kraków |2019-02-21 - 2019-02-22| http://www.lambdadays.org/ | https://www.youtube.com/watch?v=RCU5WQDT8_8&list=PLWbHc_FXPo2jaxwnNB7KFEV7HYA0qHVxl |
 | Devoxx | Kraków |2019-06-24 - 2019-06-27| http://devoxx.pl/ | https://www.youtube.com/watch?v=5VFOYM6DlJc&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH |
-| Confidence | Kraków || https://confidence-conference.org/ | https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=8&view=50 |
+| Confidence | Kraków |2019-06-03 - 2019-06-04| https://confidence-conference.org/ | https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=8&view=50 |
 | Atmosphere Conference | Warszawa || https://atmosphere-conference.com/ | https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=11&view=50 |
 | Greenfield Conference | Zielona Góra || http://greenfieldconf.pl/ | https://www.youtube.com/channel/UChG7hsrjUYyYG13AkSIfQIw/videos |
 |Frontend Con | Warszawa || https://frontend-con.io/ ||
 | JS Poland | Warszawa || https://js-poland.pl ||
-| Sphere.it | Kraków || https://sphere.it/ ||
+| Sphere.it | Kraków |2019-10-06 - 2019-10-09| https://sphere.it/ ||
 | Future Dev Day | Gliwice || https://futuredevday.pl/ | https://www.youtube.com/channel/UCrsv5LuxRfbAUleQRnAC0gw/videos |
 | Test Dive | Kraków || http://www.testdive.pl/ | https://www.youtube.com/channel/UC-8YqwFBC15rMjJRzt3OY9A/videos |
 |TestWarez| Zakopane ||https://www.testwarez.pl/||
