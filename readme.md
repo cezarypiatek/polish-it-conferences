@@ -1,7 +1,7 @@
 | Nazwa  |      Miasto      | Następne|  Strona | Nagrania |
 |----------|:-------------:|:------|:------|:------|
 | Boiling Frogs  |  Wrocław  |2019-03-30| https://2019.boilingfrogs.pl/ | https://www.youtube.com/channel/UCgUfIjfLvWmARsQ-d5gPzrw/videos |
-| SFI  |    Kraków   || https://sfi.pl/  | https://www.youtube.com/user/StudenckiFestiwalInf/videos | 
+| SFI  |    Kraków   |2019-03-21 - 2019-03-23| https://sfi.pl/  | https://www.youtube.com/user/StudenckiFestiwalInf/videos | 
 | Rzemiosło IT  | Rzeszów || http://rzemioslo.it/   | https://www.youtube.com/channel/UCKuLHBJ7bMib3JcKN7eP5-Q/videos |
 | BBQ4IT | Bielsko Biała || http://bbq4.it/ ||
 | CodeEurope|    Kraków || https://www.codeeurope.pl/ |  https://www.youtube.com/channel/UChdVVEAilVHULlycMbqRpdg/videos |  
