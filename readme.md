@@ -48,3 +48,7 @@
 | Test Dive | Kraków || http://www.testdive.pl/ | https://www.youtube.com/channel/UC-8YqwFBC15rMjJRzt3OY9A/videos |
 |TestWarez| Zakopane ||https://www.testwarez.pl/||
 |BSide Warsaw | Warszawa || https://securitybsides.pl/ | https://www.youtube.com/channel/UCexBIw_UJOz-H1PD9I9zkGw/videos |
+|MCE Conference|Warszawa||https://2018.mceconf.com/||
+|Cloud Developer Days|Warszawa|2019-05-27 - 2019-05-29|http://cloud.developerdays.pl/||
+|Lubelskie Dni Informatyki|Lublin ||https://ldi.org.pl/||
+|infoShare| Gdańsk | 2019-05-08 - 2019-05-08 | https://infoshare.pl/||
