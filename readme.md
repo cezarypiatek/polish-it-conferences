@@ -52,3 +52,4 @@
 |Cloud Developer Days|Warszawa|2019-05-27 - 2019-05-29|http://cloud.developerdays.pl/||
 |Lubelskie Dni Informatyki|Lublin ||https://ldi.org.pl/||
 |infoShare| Gdańsk | 2019-05-08 - 2019-05-08 | https://infoshare.pl/| https://www.youtube.com/user/infoSharePL/playlists |
+|AzureDay Poland| Warszawa | 2019-03-29 | http://azureday.pro/ ||
