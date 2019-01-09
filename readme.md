@@ -24,8 +24,15 @@
 | SegFault   | Łódź   |2019-04-26| http://segfault.events/ ||
 | SegFault   | Wrocław   || http://segfault.events/||
 | CoreDump   | Kraków || http://coredump.events ||
-| KarieraIT   | Kraków ||   ||
 | Warszawskie Dni Informatyki |   Warszawa   || https://warszawskiedniinformatyki.pl/ ||
+| KarieraIT   | Wrocław |2019-02-16|   ||
+| KarieraIT   | Gdańsk |2019-03-02|   ||
+| KarieraIT   | Warszawa |2019-03-16|   ||
+| KarieraIT   | Łódź |2019-03-23|   ||
+| KarieraIT   | Rzeszów |2019-04-13|   ||
+| KarieraIT   | Katowice |2019-05-11|   ||
+| KarieraIT   | Poznań |2019-05-25|   ||
+| KarieraIT   | Kraków | 2019-06-08|   ||
 | Wroc# | Wrocław  |2019-03-29| https://www.wrocsharp.com/ | https://www.youtube.com/channel/UCQBldPvCFyB7GECmEsXKBlw/videos |
 | DevConf | Kraków  |2019-09-25 - 2019-09-27| http://devconf.pl | https://www.youtube.com/channel/UCXp2tbIOcFe0WP1OaoREmWA/videos |
 | Dev# | Gdańsk  || http://devsharp.pl/ ||
