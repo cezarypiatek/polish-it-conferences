@@ -1,9 +1,12 @@
-| Nazwa  |      Miasto      | Następne|  Strona | Nagrania |
+| Nazwa | Miasto | Następne | Strona | Nagrania |
 |----------|:-------------:|:------|:------|:------|
 | Pyrcode	| Poznań	| 2019-01-18	| [link](https://pyrcode.pl)	|  |
 | KarieraIT	| Wrocław	| 2019-02-16	| 	|  |
+| Lambda Days	| Kraków	| 2019-02-21 - 2019-02-22	| [link](http://www.lambdadays.org/)	| [link](https://www.youtube.com/watch?v=RCU5WQDT8_8&list=PLWbHc_FXPo2jaxwnNB7KFEV7HYA0qHVxl) |
 | KarieraIT	| Gdańsk	| 2019-03-02	| 	|  |
+| SegFault	| Gdańsk	| 2019-03-14 - 2019-03-15	| [link](http://segfault.events/)	| [link](https://www.youtube.com/channel/UCV38Do_3C5uVk3lWePkyxTA/videos) |
 | KarieraIT	| Warszawa	| 2019-03-16	| 	|  |
+| SFI	| Kraków	| 2019-03-21 - 2019-03-23	| [link](https://sfi.pl/)	| [link](https://www.youtube.com/user/StudenckiFestiwalInf/videos) |
 | KarieraIT	| Łódź	| 2019-03-23	| 	|  |
 | AzureDay Poland	| Warszawa	| 2019-03-29	| [link](http://azureday.pro/)	|  |
 | Wroc#	| Wrocław	| 2019-03-29	| [link](https://www.wrocsharp.com/)	| [link](https://www.youtube.com/channel/UCQBldPvCFyB7GECmEsXKBlw/videos) |
@@ -11,16 +14,13 @@
 | 4Developers	| Warszawa	| 2019-04-08	| [link](https://4developers.org.pl/)	| [link](https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=13&view=50) |
 | KarieraIT	| Rzeszów	| 2019-04-13	| 	|  |
 | SegFault	| Łódź	| 2019-04-26	| [link](http://segfault.events/)	|  |
-| KarieraIT	| Katowice	| 2019-05-11	| 	|  |
-| KarieraIT	| Poznań	| 2019-05-25	| 	|  |
-| KarieraIT	| Kraków	| 2019-06-08	| 	|  |
-| Lambda Days	| Kraków	| 2019-02-21 - 2019-02-22	| [link](http://www.lambdadays.org/)	| [link](https://www.youtube.com/watch?v=RCU5WQDT8_8&list=PLWbHc_FXPo2jaxwnNB7KFEV7HYA0qHVxl) |
-| SegFault	| Gdańsk	| 2019-03-14 - 2019-03-15	| [link](http://segfault.events/)	| [link](https://www.youtube.com/channel/UCV38Do_3C5uVk3lWePkyxTA/videos) |
-| SFI	| Kraków	| 2019-03-21 - 2019-03-23	| [link](https://sfi.pl/)	| [link](https://www.youtube.com/user/StudenckiFestiwalInf/videos) |
 | infoShare	| Gdańsk	| 2019-05-08 - 2019-05-08	| [link](https://infoshare.pl/)	| [link](https://www.youtube.com/user/infoSharePL/playlists) |
+| KarieraIT	| Katowice	| 2019-05-11	| 	|  |
 | GeeCON	| Kraków	| 2019-05-15 - 2019-05-17	| [link](https://geecon.org/)	| [link](https://www.youtube.com/channel/UCVnJYdr91EZW8YvtMrxB1bg/videos) |
+| KarieraIT	| Poznań	| 2019-05-25	| 	|  |
 | Cloud Developer Days	| Warszawa	| 2019-05-27 - 2019-05-29	| [link](http://cloud.developerdays.pl/)	|  |
 | Confidence	| Kraków	| 2019-06-03 - 2019-06-04	| [link](https://confidence-conference.org/)	| [link](https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=8&view=50) |
+| KarieraIT	| Kraków	| 2019-06-08	| 	|  |
 | Devoxx	| Kraków	| 2019-06-24 - 2019-06-27	| [link](http://devoxx.pl/)	| [link](https://www.youtube.com/watch?v=5VFOYM6DlJc&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH) |
 | DevConf	| Kraków	| 2019-09-25 - 2019-09-27	| [link](http://devconf.pl)	| [link](https://www.youtube.com/channel/UCXp2tbIOcFe0WP1OaoREmWA/videos) |
 | Sphere.it	| Kraków	| 2019-10-06 - 2019-10-09	| [link](https://sphere.it/)	|  |
