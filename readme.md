@@ -56,6 +56,7 @@
 | MCE Conference	| Warszawa	| 	| [link](https://2018.mceconf.com/)	| [link](https://www.youtube.com/channel/UCVmsyhkifdHTomiVlA11FgQ/playlists) |
 | Programistok	| Białystok	| 	| [link](http://programistok.org/)	| [link](https://www.youtube.com/user/programistok/videos) |
 | Rzemiosło IT	| Rzeszów	| 	| [link](http://rzemioslo.it/)	| [link](https://www.youtube.com/channel/UCKuLHBJ7bMib3JcKN7eP5-Q/videos) |
+| Security PWNing Conference | Warszawa |  | [link](https://www.instytutpwn.pl/konferencja/pwning/)   |
 | SegFault	| Warszawa	| 	| [link](http://segfault.events/)	|  |
 | SegFault	| Wrocław	| 	| [link](http://segfault.events/)	|  |
 | Test Dive	| Kraków	| 	| [link](http://www.testdive.pl/)	| [link](https://www.youtube.com/channel/UC-8YqwFBC15rMjJRzt3OY9A/videos) |
