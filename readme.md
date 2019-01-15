@@ -15,11 +15,13 @@
 | SegFault	| Łódź	| 2019-04-26	| [link](http://segfault.events/)	|  |
 | KarieraIT	| Rzeszów	| 2019-04-13	| 	|  |
 | 4Developers	| Warszawa	| 2019-04-08	| [link](https://4developers.org.pl/)	| [link](https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=13&view=50) |
+|ConSelenium |Łódź | 2019-04-04 - 2019-04-05 | [link](http://conselenium.pl/)||
 | Boiling Frogs	| Wrocław	| 2019-03-30	| [link](https://2019.boilingfrogs.pl/)	| [link](https://www.youtube.com/channel/UCgUfIjfLvWmARsQ-d5gPzrw/videos) |
 | Wroc#	| Wrocław	| 2019-03-29	| [link](https://www.wrocsharp.com/)	| [link](https://www.youtube.com/channel/UCQBldPvCFyB7GECmEsXKBlw/videos) |
 | AzureDay Poland	| Warszawa	| 2019-03-29	| [link](http://azureday.pro/)	|  |
 | KarieraIT	| Łódź	| 2019-03-23	| 	|  |
 | SFI	| Kraków	| 2019-03-21 - 2019-03-23	| [link](https://sfi.pl/)	| [link](https://www.youtube.com/user/StudenckiFestiwalInf/videos) |
+|SkładQA | Kraków | 2019-03-19| [link](http://kraqa.pl/) ||
 | KarieraIT	| Warszawa	| 2019-03-16	| 	|  |
 | SegFault	| Gdańsk	| 2019-03-14 - 2019-03-15	| [link](http://segfault.events/)	| [link](https://www.youtube.com/channel/UCV38Do_3C5uVk3lWePkyxTA/videos) |
 | InfoMEET	| Kraków	| 2019-03-09	| [link](https://www.infomeet.pl/)	|  |
