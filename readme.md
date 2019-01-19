@@ -7,13 +7,16 @@
 | Devoxx	| Kraków	| 2019-06-24 - 2019-06-27	| [link](http://devoxx.pl/)	| [link](https://www.youtube.com/watch?v=5VFOYM6DlJc&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH) |
 | KarieraIT	| Kraków	| 2019-06-08	| 	|  |
 | Confidence	| Kraków	| 2019-06-03 - 2019-06-04	| [link](https://confidence-conference.org/)	| [link](https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=8&view=50) |
+| InfoMEET	| Warszawa	| 2019-06-1	| [link](https://www.infomeet.pl/)	|  |
 | Cloud Developer Days	| Warszawa	| 2019-05-27 - 2019-05-29	| [link](http://cloud.developerdays.pl/)	|  |
 | KarieraIT	| Poznań	| 2019-05-25	| 	|  |
+| InfoMEET	| Łódź	| 2019-05-18	| [link](https://www.infomeet.pl/)	|  |
 | GeeCON	| Kraków	| 2019-05-15 - 2019-05-17	| [link](https://geecon.org/)	| [link](https://www.youtube.com/channel/UCVnJYdr91EZW8YvtMrxB1bg/videos) |
 | KarieraIT	| Katowice	| 2019-05-11	| 	|  |
 | infoShare	| Gdańsk	| 2019-05-08 - 2019-05-08	| [link](https://infoshare.pl/)	| [link](https://www.youtube.com/user/infoSharePL/playlists) |
 | SegFault	| Łódź	| 2019-04-26	| [link](http://segfault.events/)	|  |
 | KarieraIT	| Rzeszów	| 2019-04-13	| 	|  |
+| InfoMEET	| Katowice	| 2019-04-13 	| [link](https://www.infomeet.pl/)	|  |
 | 4Developers	| Warszawa	| 2019-04-08	| [link](https://4developers.org.pl/)	| [link](https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=13&view=50) |
 |ConSelenium |Łódź | 2019-04-04 - 2019-04-05 | [link](http://conselenium.pl/)||
 | Boiling Frogs	| Wrocław	| 2019-03-30	| [link](https://2019.boilingfrogs.pl/)	| [link](https://www.youtube.com/channel/UCgUfIjfLvWmARsQ-d5gPzrw/videos) |
@@ -24,6 +27,7 @@
 | SFI	| Kraków	| 2019-03-21 - 2019-03-23	| [link](https://sfi.pl/)	| [link](https://www.youtube.com/user/StudenckiFestiwalInf/videos) |
 |SkładQA | Kraków | 2019-03-19| [link](http://kraqa.pl/) ||
 | KarieraIT	| Warszawa	| 2019-03-16	| 	|  |
+| InfoMEET	| Wrocław	| 2019-03-16	| [link](https://www.infomeet.pl/)	|  |
 | SegFault	| Gdańsk	| 2019-03-14 - 2019-03-15	| [link](http://segfault.events/)	| [link](https://www.youtube.com/channel/UCV38Do_3C5uVk3lWePkyxTA/videos) |
 | InfoMEET	| Kraków	| 2019-03-09	| [link](https://www.infomeet.pl/)	|  |
 | KarieraIT	| Gdańsk	| 2019-03-02	| 	|  |
@@ -59,7 +63,6 @@
 | Get.NET	| Łódź	| 	| [link](https://konferencjaget.net/pl/lodz)	|  |
 | Get.NET	| Gdańsk	| 	| [link](https://konferencjaget.net/pl/gdansk)	|  |
 | Greenfield Conference	| Zielona Góra	| 	| [link](http://greenfieldconf.pl/)	| [link](https://www.youtube.com/channel/UChG7hsrjUYyYG13AkSIfQIw/videos) |
-| InfoMEET	| Wrocław	| 	| [link](https://www.infomeet.pl/)	|  |
 | JS Poland	| Warszawa	| 	| [link](https://js-poland.pl)	|  |
 | Lubelskie Dni Informatyki	| Lublin	| 	| [link](https://ldi.org.pl/)	|  |
 | MCE Conference	| Warszawa	| 	| [link](https://2018.mceconf.com/)	| [link](https://www.youtube.com/channel/UCVmsyhkifdHTomiVlA11FgQ/playlists) |
