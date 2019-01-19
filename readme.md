@@ -34,6 +34,7 @@
 | MakingSoftware	| Kraków	| 2018-11-17	| [link](http://www.makingsoftware.pl/)	| [link](https://www.youtube.com/channel/UCO2SsvexXR8TkLwjU08EMMA/videos) |
 | TestWarez	| Zakopane	| 2018-11-14	| [link](https://www.testwarez.pl/)	|  |
 | Test Dive	| Kraków	| 2018-10-18	| [link](http://www.testdive.pl/)	| [link](https://www.youtube.com/channel/UC-8YqwFBC15rMjJRzt3OY9A/videos) |
+| Agile & Automation Days | Kraków | 2018-10-15 - 2018-10-16 | [link](http://aadays.pl)| [link](https://www.youtube.com/playlist?list=PLi88SNN9jMXx2IDLrMSzJRXsnR3dCg6xV) |
 | 4Developers	| Kraków	| 2018-10-15 | [link](https://krakow.4developers.org.pl/)	|  |
 | {j}dd	| Kraków	| 2018-10-08 | [link](https://www.jdd.org.pl)	|  |
 | Programistok	| Białystok	| 2018-09-28	| [link](http://programistok.org/)	| [link](https://www.youtube.com/user/programistok/videos) |
@@ -47,7 +48,7 @@
 | BSided Warsaw	| Warszawa	| 	| [link](https://securitybsides.pl/)	| [link](https://www.youtube.com/channel/UCexBIw_UJOz-H1PD9I9zkGw/videos) |
 | CodeEurope	| Kraków	| 	| [link](https://www.codeeurope.pl/)	| [link](https://www.youtube.com/channel/UChdVVEAilVHULlycMbqRpdg/videos) |
 | Confitura	| Warszawa	| 	| [link](https://2018.confitura.pl/)	| [link](https://www.youtube.com/user/confiturapl/videos) |
-| Dev#	| Gdańsk	| 	| [link]([link](http://devsharp.pl/))	|  |
+| Dev#	| Gdańsk	| 	| [link](http://devsharp.pl/)	|  |
 | DoIT	| Wrocław	| 	| [link](http://doit-conf.pl/)	|  |
 | DotNETConfPL	| Internet	| 	| [link](https://dotnetconf.pl/)	| [link](https://www.youtube.com/channel/UCs3oPPpRdETQTsxVF-Wvqbg/videos) |
 | Dotnetos	| Warszawa	| 	| [link](https://dotnetos.org/)	|  |
