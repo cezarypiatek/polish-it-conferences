@@ -51,6 +51,7 @@
 | 4Developers	| Katowice	| 2018-11-06	| [link](https://katowice.4developers.org.pl/)	|  |
 | Dotnetos	| Warszawa	| 2018-11-05	| [link](https://dotnetos.org/)	|  |
 | Get.NET	| Gdańsk	| 2018-10-27	| [link](https://konferencjaget.net/pl/gdansk)	|  |
+| Secure | Warszawa | 2018-10-23 - 2018-10-24 | [link](https://www.secure.edu.pl/)| |
 | 4Developers	| Łódź	|  2018-10-23	| [link](https://lodz.4developers.org.pl/)	|  |
 | Test Dive	| Kraków	| 2018-10-18	| [link](http://www.testdive.pl/)	| [link](https://www.youtube.com/channel/UC-8YqwFBC15rMjJRzt3OY9A/videos) |
 | Agile & Automation Days | Kraków | 2018-10-15 - 2018-10-16 | [link](http://aadays.pl)| [link](https://www.youtube.com/playlist?list=PLi88SNN9jMXx2IDLrMSzJRXsnR3dCg6xV) |
