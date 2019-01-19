@@ -8,6 +8,7 @@
 | KarieraIT	| Kraków	| 2019-06-08	| 	|  |
 | Confidence	| Kraków	| 2019-06-03 - 2019-06-04	| [link](https://confidence-conference.org/)	| [link](https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=8&view=50) |
 | InfoMEET	| Warszawa	| 2019-06-01	| [link](https://www.infomeet.pl/)	|  |
+| SegFault	| Kielce	| 2019-05-31	| [link](http://segfault.events/)	|  |
 | Cloud Developer Days	| Warszawa	| 2019-05-27 - 2019-05-29	| [link](http://cloud.developerdays.pl/)	|  |
 | KarieraIT	| Poznań	| 2019-05-25	| 	|  |
 | InfoMEET	| Łódź	| 2019-05-18	| [link](https://www.infomeet.pl/)	|  |
