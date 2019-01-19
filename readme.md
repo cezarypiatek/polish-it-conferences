@@ -20,6 +20,7 @@
 | Wroc#	| Wrocław	| 2019-03-29	| [link](https://www.wrocsharp.com/)	| [link](https://www.youtube.com/channel/UCQBldPvCFyB7GECmEsXKBlw/videos) |
 | AzureDay Poland	| Warszawa	| 2019-03-29	| [link](http://azureday.pro/)	|  |
 | KarieraIT	| Łódź	| 2019-03-23	| 	|  |
+| Warszawskie Dni Informatyki	| Warszawa	| 2019-03-26 - 2019-03-27	| [link](https://warszawskiedniinformatyki.pl/)	|  |
 | SFI	| Kraków	| 2019-03-21 - 2019-03-23	| [link](https://sfi.pl/)	| [link](https://www.youtube.com/user/StudenckiFestiwalInf/videos) |
 |SkładQA | Kraków | 2019-03-19| [link](http://kraqa.pl/) ||
 | KarieraIT	| Warszawa	| 2019-03-16	| 	|  |
@@ -65,4 +66,4 @@
 | Security PWNing Conference | Warszawa |  | [link](https://www.instytutpwn.pl/konferencja/pwning/)   |
 | SegFault	| Warszawa	| 	| [link](http://segfault.events/)	|  |
 | SegFault	| Wrocław	| 	| [link](http://segfault.events/)	|  |
-| Warszawskie Dni Informatyki	| Warszawa	| 	| [link](https://warszawskiedniinformatyki.pl/)	|  |
+
