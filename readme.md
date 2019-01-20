@@ -5,6 +5,7 @@
 | Sphere.it	| Kraków	| 2019-10-06 - 2019-10-09	| [link](https://sphere.it/)	|  |
 | DevConf	| Kraków	| 2019-09-25 - 2019-09-27	| [link](http://devconf.pl)	| [link](https://www.youtube.com/channel/UCXp2tbIOcFe0WP1OaoREmWA/videos) |
 | Devoxx	| Kraków	| 2019-06-24 - 2019-06-27	| [link](http://devoxx.pl/)	| [link](https://www.youtube.com/watch?v=5VFOYM6DlJc&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH) |
+| Greenfield Conference	| Zielona Góra	| 2019-06-08	| [link](http://greenfieldconf.pl/)	| [link](https://www.youtube.com/channel/UChG7hsrjUYyYG13AkSIfQIw/videos) |
 | KarieraIT	| Kraków	| 2019-06-08	| 	|  |
 | Confidence	| Kraków	| 2019-06-03 - 2019-06-04	| [link](https://confidence-conference.org/)	| [link](https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=8&view=50) |
 | InfoMEET	| Warszawa	| 2019-06-01	| [link](https://www.infomeet.pl/)	|  |
@@ -67,7 +68,6 @@
 | Atmosphere Conference	| Warszawa	| 2018-06-18	| [link](https://atmosphere-conference.com/)	| [link](https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=11&view=50) |
 | MCE Conference	| Warszawa	| 2018-06-05 - 2018-06-06	| [link](https://2018.mceconf.com/)	| [link](https://www.youtube.com/channel/UCVmsyhkifdHTomiVlA11FgQ/playlists) |
 | Rzemiosło IT	| Rzeszów	| 2018-05-26	| [link](http://rzemioslo.it/)	| [link](https://www.youtube.com/channel/UCKuLHBJ7bMib3JcKN7eP5-Q/videos) |
-| Greenfield Conference	| Zielona Góra	| 2018-05-19	| [link](http://greenfieldconf.pl/)	| [link](https://www.youtube.com/channel/UChG7hsrjUYyYG13AkSIfQIw/videos) |
 | CodeEurope	| Kraków	| 2018-05-08	| [link](https://www.codeeurope.pl/)	| [link](https://www.youtube.com/channel/UChdVVEAilVHULlycMbqRpdg/videos) |
 | Get.NET	| Łódź	| 2018-04-14	| [link](https://konferencjaget.net/pl/lodz)	|  |
 | SegFault	| Warszawa	| 	| [link](http://segfault.events/)	|  |
