@@ -14,6 +14,7 @@
 | KarieraIT	| Poznań	| 2019-05-25	| 	|  |
 | InfoMEET	| Łódź	| 2019-05-18	| [link](https://www.infomeet.pl/)	|  |
 | GeeCON	| Kraków	| 2019-05-15 - 2019-05-17	| [link](https://geecon.org/)	| [link](https://www.youtube.com/channel/UCVnJYdr91EZW8YvtMrxB1bg/videos) |
+| SQLDay | Wrocław | 2019-05-13 - 2019-05-15 | [link](https://sqlday.pl)||
 | KarieraIT	| Katowice	| 2019-05-11	| 	|  |
 | infoShare	| Gdańsk	| 2019-05-08 - 2019-05-08	| [link](https://infoshare.pl/)	| [link](https://www.youtube.com/user/infoSharePL/playlists) |
 | SegFault	| Łódź	| 2019-04-26	| [link](http://segfault.events/)	|  |
