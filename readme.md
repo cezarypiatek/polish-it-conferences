@@ -59,11 +59,13 @@
 | Get.NET	| Gdańsk	| 2018-10-27	| [link](https://konferencjaget.net/pl/gdansk)	|  | .net |
 | Secure | Warszawa | 2018-10-23 - 2018-10-24 | [link](https://www.secure.edu.pl/)| | security |
 | 4Developers	| Łódź	|  2018-10-23	| [link](https://lodz.4developers.org.pl/)	|  | versatile |
+| Mobilization | Łódź | 2018-10-20 | [link](http://2018.mobilization.pl/) | | mobile |
 | Test Dive	| Kraków	| 2018-10-18	| [link](http://www.testdive.pl/)	| [link](https://www.youtube.com/channel/UC-8YqwFBC15rMjJRzt3OY9A/videos) | testing |
 | Agile & Automation Days | Kraków | 2018-10-15 - 2018-10-16 | [link](http://aadays.pl)| [link](https://www.youtube.com/playlist?list=PLi88SNN9jMXx2IDLrMSzJRXsnR3dCg6xV) | testing, devops |
 | 4Developers	| Kraków	| 2018-10-15 | [link](https://krakow.4developers.org.pl/)	|  | versatile |
 | BSided Warsaw	| Warszawa	| 2018-10-12 - 2018-10-14| [link](https://securitybsides.pl/)	| [link](https://www.youtube.com/channel/UCexBIw_UJOz-H1PD9I9zkGw/videos) | security |
 | {j}dd	| Kraków	| 2018-10-08 | [link](https://www.jdd.org.pl)	|  | java |
+| mobiconf | Kraków | 2018-10-04 - 2018-10-05 | [link](https://2018.mobiconf.org/) | | mobile|
 | Programistok	| Białystok	| 2018-09-28	| [link](http://programistok.org/)	| [link](https://www.youtube.com/user/programistok/videos) | versatile |
 | 4Developers	| Gdańsk	| 2018-09-25	| [link](https://gdansk.4developers.org.pl/)	|  | versatile |
 | SegFault	| Wrocław	| 2018-09-24 | [link](http://segfault.events/)	|  | architecture |
@@ -75,4 +77,5 @@
 | Rzemiosło IT	| Rzeszów	| 2018-05-26	| [link](http://rzemioslo.it/)	| [link](https://www.youtube.com/channel/UCKuLHBJ7bMib3JcKN7eP5-Q/videos) | craftsmanship |
 | CodeEurope	| Kraków	| 2018-05-08	| [link](https://www.codeeurope.pl/)	| [link](https://www.youtube.com/channel/UChdVVEAilVHULlycMbqRpdg/videos) | versatile |
 | Get.NET	| Łódź	| 2018-04-14	| [link](https://konferencjaget.net/pl/lodz)	|  | .net |
+| droidcon | Kraków | 2017-12-01 - 2017-12-01 | [link](http://droidcon.pl/) | | mobile |
 | SegFault	| Warszawa	| 	| [link](http://segfault.events/)	|  | architecture |
