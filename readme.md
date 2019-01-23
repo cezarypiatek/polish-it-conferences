@@ -5,6 +5,7 @@
 | Sphere.it	| Kraków	| 2019-10-06 - 2019-10-09	| [link](https://sphere.it/)	|  | versatile |
 | DevConf	| Kraków	| 2019-09-25 - 2019-09-27	| [link](http://devconf.pl)	| [link](https://www.youtube.com/channel/UCXp2tbIOcFe0WP1OaoREmWA/videos) | versatile |
 | Devoxx	| Kraków	| 2019-06-24 - 2019-06-27	| [link](http://devoxx.pl/)	| [link](https://www.youtube.com/watch?v=5VFOYM6DlJc&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH) | java, versatile |
+| Testing Cup | Poznań | 2019-06-10 - 2019-06-11 | [link](http://testingcup.pl/)|| testing|
 | Greenfield Conference	| Zielona Góra	| 2019-06-08	| [link](http://greenfieldconf.pl/)	| [link](https://www.youtube.com/channel/UChG7hsrjUYyYG13AkSIfQIw/videos) | versatile |
 | KarieraIT	| Kraków	| 2019-06-08	| 	|  | versatile |
 | Confidence	| Kraków	| 2019-06-03 - 2019-06-04	| [link](https://confidence-conference.org/)	| [link](https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=8&view=50) | security |
@@ -29,12 +30,15 @@
 | Warszawskie Dni Informatyki	| Warszawa	| 2019-03-26 - 2019-03-27	| [link](https://warszawskiedniinformatyki.pl/)	|  | versatile |
 | KarieraIT	| Łódź	| 2019-03-23	| 	|  | versatile |
 | SFI	| Kraków	| 2019-03-21 - 2019-03-23	| [link](https://sfi.pl/)	| [link](https://www.youtube.com/user/StudenckiFestiwalInf/videos) | versatile |
+| Akademia Jakości - testowanie i jakość projektów IT | Warszawa | 2019-03-21 - 2019-03-22 | [link](http://successpoint.pl/akademia_jakosci_2019) || testing |
 | SkładQA | Kraków | 2019-03-19| [link](http://kraqa.pl/) || testing |
 | KarieraIT	| Warszawa	| 2019-03-16	| 	|  | versatile |
 | InfoMEET	| Wrocław	| 2019-03-16	| [link](https://www.infomeet.pl/)	|  | versatile |
 | SegFault	| Gdańsk	| 2019-03-14 - 2019-03-15	| [link](http://segfault.events/)	| [link](https://www.youtube.com/channel/UCV38Do_3C5uVk3lWePkyxTA/videos) | architecture |
 | InfoMEET	| Kraków	| 2019-03-09	| [link](https://www.infomeet.pl/)	|  | versatile |
 | KarieraIT	| Gdańsk	| 2019-03-02	| 	|  | versatile |
+| Konferencja testerzy.pl | Gdańsk | 2019-03-01 | [link](http://konferencja.testerzy.pl/) || testing |
+| test:fest | Wrocław | 2019-02-23 | [link](http://testfest.pl/) | | testing |
 | Lambda Days	| Kraków	| 2019-02-21 - 2019-02-22	| [link](http://www.lambdadays.org/)	| [link](https://www.youtube.com/watch?v=RCU5WQDT8_8&list=PLWbHc_FXPo2jaxwnNB7KFEV7HYA0qHVxl) | functional-programming |
 | KarieraIT	| Wrocław	| 2019-02-16	| 	|  | versatile |
 | Pyrcode	| Poznań	| 2019-01-18	| [link](https://pyrcode.pl)	|  | versatile |
