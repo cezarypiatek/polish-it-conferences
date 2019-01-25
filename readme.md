@@ -10,12 +10,13 @@
 | KarieraIT	| Kraków	| 2019-06-08	| 	|  | versatile |
 | Confidence	| Kraków	| 2019-06-03 - 2019-06-04	| [link](https://confidence-conference.org/)	| [link](https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=8&view=50) | security |
 | InfoMEET	| Warszawa	| 2019-06-01	| [link](https://www.infomeet.pl/)	|  | versatile
+| Data Science Summit |  Warszawa | 2019-06-?? | [link](https://dssconf.pl/) || database |
 | SegFault	| Kielce	| 2019-05-31	| [link](http://segfault.events/)	|  | architecture |
 | Cloud Developer Days	| Warszawa	| 2019-05-27 - 2019-05-29	| [link](http://cloud.developerdays.pl/)	|  | cloud |
 | KarieraIT	| Poznań	| 2019-05-25	| 	|  | versatile |
 | InfoMEET	| Łódź	| 2019-05-18	| [link](https://www.infomeet.pl/)	|  | versatile |
 | GeeCON	| Kraków	| 2019-05-15 - 2019-05-17	| [link](https://geecon.org/)	| [link](https://www.youtube.com/channel/UCVnJYdr91EZW8YvtMrxB1bg/videos) | java |
-| SQLDay | Wrocław | 2019-05-13 - 2019-05-15 | [link](https://sqlday.pl)|| data |
+| SQLDay | Wrocław | 2019-05-13 - 2019-05-15 | [link](https://sqlday.pl)|| database |
 | KarieraIT	| Katowice	| 2019-05-11	| 	|  | versatile |
 | infoShare	| Gdańsk	| 2019-05-08 - 2019-05-08	| [link](https://infoshare.pl/)	| [link](https://www.youtube.com/user/infoSharePL/playlists) | versatile |
 | SegFault	| Łódź	| 2019-04-26	| [link](http://segfault.events/)	|  | architecture |
