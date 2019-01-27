@@ -25,6 +25,7 @@
 | Lubelskie Dni Informatyki	| Lublin	| 2019-04-13	| [link](https://ldi.org.pl/)	|  | versatile |
 | 4Developers	| Warszawa	| 2019-04-08	| [link](https://4developers.org.pl/)	| [link](https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=13&view=50) | versatile |
 | ConSelenium |Łódź | 2019-04-04 - 2019-04-05 | [link](http://conselenium.pl/)|| testing |
+| App.js Conf | Kraków | 2019-04-04 - 2019-04-05 | [link](https://appjs.co/) | | mobile |
 | Boiling Frogs	| Wrocław	| 2019-03-30	| [link](https://2019.boilingfrogs.pl/)	| [link](https://www.youtube.com/channel/UCgUfIjfLvWmARsQ-d5gPzrw/videos) | craftsmanship |
 | Wroc#	| Wrocław	| 2019-03-29	| [link](https://www.wrocsharp.com/)	| [link](https://www.youtube.com/channel/UCQBldPvCFyB7GECmEsXKBlw/videos) | .net
 | AzureDay Poland	| Warszawa	| 2019-03-29	| [link](http://azureday.pro/)	|  | .net, cloud |
