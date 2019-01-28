@@ -15,6 +15,7 @@
 | Cloud Developer Days	| Warszawa	| 2019-05-27 - 2019-05-29	| [link](http://cloud.developerdays.pl/)	|  | cloud |
 | KarieraIT	| Poznań	| 2019-05-25	| 	|  | versatile |
 | InfoMEET	| Łódź	| 2019-05-18	| [link](https://www.infomeet.pl/)	|  | versatile |
+| Cloud Native Warsaw | Warszawa | 2019-05-17 | [link](http://cloudnativewarsaw.com/) | | cloud |
 | GeeCON	| Kraków	| 2019-05-15 - 2019-05-17	| [link](https://geecon.org/)	| [link](https://www.youtube.com/channel/UCVnJYdr91EZW8YvtMrxB1bg/videos) | java |
 | SQLDay | Wrocław | 2019-05-13 - 2019-05-15 | [link](https://sqlday.pl)|| database |
 | KarieraIT	| Katowice	| 2019-05-11	| 	|  | versatile |
@@ -41,6 +42,7 @@
 | KarieraIT	| Gdańsk	| 2019-03-02	| 	|  | versatile |
 | Konferencja testerzy.pl | Gdańsk | 2019-03-01 | [link](http://konferencja.testerzy.pl/) || testing |
 | test:fest | Wrocław | 2019-02-23 | [link](http://testfest.pl/) | | testing |
+| Big Data Technology Summit | Warszawa | 2019-02-27 | [link](https://bigdatatechwarsaw.eu/) || database |
 | Lambda Days	| Kraków	| 2019-02-21 - 2019-02-22	| [link](http://www.lambdadays.org/)	| [link](https://www.youtube.com/watch?v=RCU5WQDT8_8&list=PLWbHc_FXPo2jaxwnNB7KFEV7HYA0qHVxl) | functional-programming |
 | KarieraIT	| Wrocław	| 2019-02-16	| 	|  | versatile |
 | Pyrcode	| Poznań	| 2019-01-18	| [link](https://pyrcode.pl)	|  | versatile |
