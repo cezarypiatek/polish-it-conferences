@@ -1,9 +1,13 @@
+
+## 2019
+
 | Nazwa | Miasto | Data | Strona | Nagrania | Tematyka|
 |----------|:-------------:|:------|:------|:------|:------|
 | .NET Developer Days	| Warszawa	| 2019-10-23 - 2019-10-25	| [link](http://net.developerdays.pl/)	| [link](https://www.youtube.com/channel/UC_oRRPZrYP4gZQOJOcuTyUw/videos) | .net |
 | ShareCon365 | Warszawa | 2019-10-08 |[link](http://www.sharecon365.pl/)|| .net |
 | Sphere.it	| Kraków	| 2019-10-06 - 2019-10-09	| [link](https://sphere.it/)	|  | versatile |
 | DevConf	| Kraków	| 2019-09-25 - 2019-09-27	| [link](http://devconf.pl)	| [link](https://www.youtube.com/channel/UCXp2tbIOcFe0WP1OaoREmWA/videos) | versatile |
+| SegFault	| Warszawa	| Jesień 2019	| [link](http://segfault.events/)	|  | architecture |
 | Devoxx	| Kraków	| 2019-06-24 - 2019-06-27	| [link](http://devoxx.pl/)	| [link](https://www.youtube.com/watch?v=5VFOYM6DlJc&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH) | java, versatile |
 | Testing Cup | Poznań | 2019-06-10 - 2019-06-11 | [link](http://testingcup.pl/)|| testing|
 | Greenfield Conference	| Zielona Góra	| 2019-06-08	| [link](http://greenfieldconf.pl/)	| [link](https://www.youtube.com/channel/UChG7hsrjUYyYG13AkSIfQIw/videos) | versatile |
@@ -46,6 +50,11 @@
 | Lambda Days	| Kraków	| 2019-02-21 - 2019-02-22	| [link](http://www.lambdadays.org/)	| [link](https://www.youtube.com/watch?v=RCU5WQDT8_8&list=PLWbHc_FXPo2jaxwnNB7KFEV7HYA0qHVxl) | functional-programming |
 | KarieraIT	| Wrocław	| 2019-02-16	| 	|  | versatile |
 | Pyrcode	| Poznań	| 2019-01-18	| [link](https://pyrcode.pl)	|  | versatile |
+
+
+## 2018
+| Nazwa | Miasto | Data | Strona | Nagrania | Tematyka|
+|----------|:-------------:|:------|:------|:------|:------|
 | Dni Informatyki PK	| Kraków	| 2018-12-04	| [link](https://itad-pk.github.io/)	|  | versatile |
 | Frontend Con	| Warszawa	| 2018-12-04 - 2018-12-05	| [link](https://frontend-con.io/)	|  | frontend |
 | Future Dev Day	| Gliwice	| 2018-11-30 - 2018-12-01| [link](https://futuredevday.pl/)	| [link](https://www.youtube.com/channel/UCrsv5LuxRfbAUleQRnAC0gw/videos) | versatile |
@@ -81,5 +90,9 @@
 | Rzemiosło IT	| Rzeszów	| 2018-05-26	| [link](http://rzemioslo.it/)	| [link](https://www.youtube.com/channel/UCKuLHBJ7bMib3JcKN7eP5-Q/videos) | craftsmanship |
 | CodeEurope	| Kraków	| 2018-05-08	| [link](https://www.codeeurope.pl/)	| [link](https://www.youtube.com/channel/UChdVVEAilVHULlycMbqRpdg/videos) | versatile |
 | Get.NET	| Łódź	| 2018-04-14	| [link](https://konferencjaget.net/pl/lodz)	|  | .net |
+
+# 2017
+| Nazwa | Miasto | Data | Strona | Nagrania | Tematyka|
+|----------|:-------------:|:------|:------|:------|:------|
 | droidcon | Kraków | 2017-12-01 - 2017-12-01 | [link](http://droidcon.pl/) | | mobile |
-| SegFault	| Warszawa	| 	| [link](http://segfault.events/)	|  | architecture |
+
