@@ -34,6 +34,7 @@
 | Boiling Frogs	| Wrocław	| 2019-03-30	| [link](https://2019.boilingfrogs.pl/)	| [link](https://www.youtube.com/channel/UCgUfIjfLvWmARsQ-d5gPzrw/videos) | craftsmanship |
 | Wroc#	| Wrocław	| 2019-03-29	| [link](https://www.wrocsharp.com/)	| [link](https://www.youtube.com/channel/UCQBldPvCFyB7GECmEsXKBlw/videos) | .net
 | AzureDay Poland	| Warszawa	| 2019-03-29	| [link](http://azureday.pro/)	|  | .net, cloud |
+| Data Center Trends | Warszawa | 2019-03-28 | [link](http://datacentertrends.pl/) | | database |
 | Warszawskie Dni Informatyki	| Warszawa	| 2019-03-26 - 2019-03-27	| [link](https://warszawskiedniinformatyki.pl/)	|  | versatile |
 | KarieraIT	| Łódź	| 2019-03-23	| 	|  | versatile |
 | SFI	| Kraków	| 2019-03-21 - 2019-03-23	| [link](https://sfi.pl/)	| [link](https://www.youtube.com/user/StudenckiFestiwalInf/videos) | versatile |
@@ -69,8 +70,10 @@
 | Expert Summit	| Lublin	| 2018-11-07 | [link](https://expertsummit.pl/)	|  | .net |
 | 4Developers	| Katowice	| 2018-11-06	| [link](https://katowice.4developers.org.pl/)	|  | versatile |
 | Dotnetos	| Warszawa	| 2018-11-05	| [link](https://dotnetos.org/)	|  | performance, .net |
+| DesignWays Conf | Kraków | 2018-11-03 - 2018-11-04 | [link](https://designways.io/) | | design |
 | Get.NET	| Gdańsk	| 2018-10-27	| [link](https://konferencjaget.net/pl/gdansk)	|  | .net |
 | Secure | Warszawa | 2018-10-23 - 2018-10-24 | [link](https://www.secure.edu.pl/)| | security |
+| CodeteCon | Kraków | 2018-10-11 | [link](https://codetecon.pl/) | | versatile |
 | 4Developers	| Łódź	|  2018-10-23	| [link](https://lodz.4developers.org.pl/)	|  | versatile |
 | Mobilization | Łódź | 2018-10-20 | [link](http://2018.mobilization.pl/) | | mobile |
 | Test Dive	| Kraków	| 2018-10-18	| [link](http://www.testdive.pl/)	| [link](https://www.youtube.com/channel/UC-8YqwFBC15rMjJRzt3OY9A/videos) | testing |
@@ -79,6 +82,7 @@
 | BSided Warsaw	| Warszawa	| 2018-10-12 - 2018-10-14| [link](https://securitybsides.pl/)	| [link](https://www.youtube.com/channel/UCexBIw_UJOz-H1PD9I9zkGw/videos) | security |
 | {j}dd	| Kraków	| 2018-10-08 | [link](https://www.jdd.org.pl)	|  | java |
 | mobiconf | Kraków | 2018-10-04 - 2018-10-05 | [link](https://2018.mobiconf.org/) | | mobile|
+| DataMass | Gdańsk | 2018-09-28 | [link](http://summit.datamass.io/) | | database |
 | Programistok	| Białystok	| 2018-09-28	| [link](http://programistok.org/)	| [link](https://www.youtube.com/user/programistok/videos) | versatile |
 | 4Developers	| Gdańsk	| 2018-09-25	| [link](https://gdansk.4developers.org.pl/)	|  | versatile |
 | SegFault	| Wrocław	| 2018-09-24 | [link](http://segfault.events/)	|  | architecture |
@@ -88,7 +92,9 @@
 | Atmosphere Conference	| Warszawa	| 2018-06-18	| [link](https://atmosphere-conference.com/)	| [link](https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=11&view=50) | versatile |
 | MCE Conference	| Warszawa	| 2018-06-05 - 2018-06-06	| [link](https://2018.mceconf.com/)	| [link](https://www.youtube.com/channel/UCVmsyhkifdHTomiVlA11FgQ/playlists) | versatile |
 | Rzemiosło IT	| Rzeszów	| 2018-05-26	| [link](http://rzemioslo.it/)	| [link](https://www.youtube.com/channel/UCKuLHBJ7bMib3JcKN7eP5-Q/videos) | craftsmanship |
+| Front-Trends | Warszawa | 2018-05-24 - 2018-05-25 | [link](https://2018.front-trends.com/) | | frontend|
 | CodeEurope	| Kraków	| 2018-05-08	| [link](https://www.codeeurope.pl/)	| [link](https://www.youtube.com/channel/UChdVVEAilVHULlycMbqRpdg/videos) | versatile |
+| Ciemna strona UX | Kraków | 2018-04-21 | [link](http://www.ciemnastronaux.pl/) | | design |
 | Get.NET	| Łódź	| 2018-04-14	| [link](https://konferencjaget.net/pl/lodz)	|  | .net |
 | ByteBay | Gdańśk | 2018-03-15 - 2018-03-16 | [link](http://bytebay.pl/2018/) || versatile |
 # 2017
