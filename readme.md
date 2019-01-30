@@ -90,7 +90,7 @@
 | Rzemiosło IT	| Rzeszów	| 2018-05-26	| [link](http://rzemioslo.it/)	| [link](https://www.youtube.com/channel/UCKuLHBJ7bMib3JcKN7eP5-Q/videos) | craftsmanship |
 | CodeEurope	| Kraków	| 2018-05-08	| [link](https://www.codeeurope.pl/)	| [link](https://www.youtube.com/channel/UChdVVEAilVHULlycMbqRpdg/videos) | versatile |
 | Get.NET	| Łódź	| 2018-04-14	| [link](https://konferencjaget.net/pl/lodz)	|  | .net |
-
+| ByteBay | Gdańśk | 2018-03-15 - 2018-03-16 | [link](http://bytebay.pl/2018/) || versatile |
 # 2017
 | Nazwa | Miasto | Data | Strona | Nagrania | Tematyka|
 |----------|:-------------:|:------|:------|:------|:------|
