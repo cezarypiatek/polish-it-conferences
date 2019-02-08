@@ -4,6 +4,7 @@
 | Nazwa | Miasto | Data | Strona | Nagrania | Tematyka|
 |----------|:-------------:|:------|:------|:------|:------|
 | .NET Developer Days	| Warszawa	| 2019-10-23 - 2019-10-25	| [link](http://net.developerdays.pl/)	| [link](https://www.youtube.com/channel/UC_oRRPZrYP4gZQOJOcuTyUw/videos) | .net |
+| Dotnetos	| Warszawa	| 2019-10-10 - 2019-10-11	| [link](https://conf.dotnetos.org/)	|  | performance, .net |
 | ShareCon365 | Warszawa | 2019-10-08 |[link](http://www.sharecon365.pl/)|| .net |
 | Sphere.it	| Kraków	| 2019-10-06 - 2019-10-09	| [link](https://sphere.it/)	|  | versatile |
 | DevConf	| Kraków	| 2019-09-25 - 2019-09-27	| [link](http://devconf.pl)	| [link](https://www.youtube.com/channel/UCXp2tbIOcFe0WP1OaoREmWA/videos) | versatile |
