@@ -47,6 +47,7 @@
 | InfoMEET	| Kraków	| 2019-03-09	| [link](https://www.infomeet.pl/)	|  | versatile |
 | KarieraIT	| Gdańsk	| 2019-03-02	| 	|  | versatile |
 | Konferencja testerzy.pl | Gdańsk | 2019-03-01 | [link](http://konferencja.testerzy.pl/) || testing |
+| MEGA sekurak hacking party | Kraków | 2019-02-25 | [link](https://sekurak.pl/mega-sekurak-hacking-party-zapraszamy-na-impreze-jakiej-jeszcze-nie-bylo/) | | security |
 | test:fest | Wrocław | 2019-02-23 | [link](http://testfest.pl/) | | testing |
 | Big Data Technology Summit | Warszawa | 2019-02-27 | [link](https://bigdatatechwarsaw.eu/) || database |
 | Lambda Days	| Kraków	| 2019-02-21 - 2019-02-22	| [link](http://www.lambdadays.org/)	| [link](https://www.youtube.com/watch?v=RCU5WQDT8_8&list=PLWbHc_FXPo2jaxwnNB7KFEV7HYA0qHVxl) | functional-programming |
