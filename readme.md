@@ -20,6 +20,7 @@
 | Data Science Summit |  Warszawa | 2019-06-?? | [link](https://dssconf.pl/) || database |
 | SegFault	| Kielce	| 2019-05-31	| [link](http://segfault.events/)	|  | architecture |
 | Cloud Developer Days	| Warszawa	| 2019-05-27 - 2019-05-29	| [link](http://cloud.developerdays.pl/)	|  | cloud |
+| Rzemiosło IT	| Rzeszów	| 2019-05-25	| [link](http://rzemioslo.it/)	|  | craftsmanship |
 | KarieraIT	| Poznań	| 2019-05-25	| 	|  | versatile |
 | InfoMEET	| Łódź	| 2019-05-18	| [link](https://www.infomeet.pl/)	|  | versatile |
 | Cloud Native Warsaw | Warszawa | 2019-05-17 | [link](http://cloudnativewarsaw.com/) | | cloud |
