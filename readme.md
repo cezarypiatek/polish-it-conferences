@@ -3,6 +3,7 @@
 
 | Nazwa | Miasto | Data | Strona | Nagrania | Tematyka|
 |----------|:-------------:|:------|:------|:------|:------|
+| JOIN! The Database Conference| Warszawa | 2019-11-21 - 2019-11-22 | [link](http://join-conference.com/) | | database |
 | .NET Developer Days	| Warszawa	| 2019-10-23 - 2019-10-25	| [link](http://net.developerdays.pl/)	| [link](https://www.youtube.com/channel/UC_oRRPZrYP4gZQOJOcuTyUw/videos) | .net |
 | Game Industry Conference | Poznań | 2019-10-17 - 2019-10-20 | [link](https://gic.gd/) | | |game development|
 | JDD	| Kraków	| 2019-10-14 - 2019-10-15| [link](https://www.jdd.org.pl)	|  | java |
