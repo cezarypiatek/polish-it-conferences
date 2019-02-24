@@ -13,6 +13,7 @@
 | DevConf	| Kraków	| 2019-09-25 - 2019-09-27	| [link](http://devconf.pl)	| [link](https://www.youtube.com/channel/UCXp2tbIOcFe0WP1OaoREmWA/videos) | versatile |
 | React Native EU | Wrocław | 2019-09-05 - 2019-09-06 | [link](https://react-native.eu/) | | mobile |
 | SegFault	| Warszawa	| Jesień 2019	| [link](http://segfault.events/)	|  | architecture |
+| Confitura	| Warszawa	| 2019-06-29	| [link](https://2019.confitura.pl/)	|  | java |
 | Devoxx	| Kraków	| 2019-06-24 - 2019-06-27	| [link](http://devoxx.pl/)	| [link](https://www.youtube.com/watch?v=5VFOYM6DlJc&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH) | java, versatile |
 | Testing Cup | Poznań | 2019-06-10 - 2019-06-11 | [link](http://testingcup.pl/)|| testing|
 | Greenfield Conference	| Zielona Góra	| 2019-06-08	| [link](http://greenfieldconf.pl/)	| [link](https://www.youtube.com/channel/UChG7hsrjUYyYG13AkSIfQIw/videos) | versatile |
