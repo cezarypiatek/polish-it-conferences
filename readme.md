@@ -10,6 +10,7 @@
 | Dotnetos	| Warszawa	| 2019-10-10 - 2019-10-11	| [link](https://conf.dotnetos.org/)	|  | performance, .net |
 | ShareCon365 | Warszawa | 2019-10-08 |[link](http://www.sharecon365.pl/)|| .net |
 | Sphere.it	| Kraków	| 2019-10-06 - 2019-10-09	| [link](https://sphere.it/)	|  | versatile |
+| mobiconf | Kraków | 2019-10-03 - 2019-10-04 | [link](https://2018.mobiconf.org/) | | mobile|
 | DevConf	| Kraków	| 2019-09-25 - 2019-09-27	| [link](http://devconf.pl)	| [link](https://www.youtube.com/channel/UCXp2tbIOcFe0WP1OaoREmWA/videos) | versatile |
 | React Native EU | Wrocław | 2019-09-05 - 2019-09-06 | [link](https://react-native.eu/) | | mobile |
 | SegFault	| Warszawa	| Jesień 2019	| [link](http://segfault.events/)	|  | architecture |
