@@ -21,6 +21,7 @@
 | KarieraIT	| Kraków	| 2019-06-08	| 	|  | versatile |
 | Confidence	| Kraków	| 2019-06-03 - 2019-06-04	| [link](https://confidence-conference.org/)	| [link](https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=8&view=50) | security |
 | InfoMEET	| Warszawa	| 2019-06-01	| [link](https://www.infomeet.pl/)	|  | versatile
+| KarieraIT	| Gdańsk	| 2019-06-01	| [link](https://careercon.pl/najblizsze-wydarzenia/)	|  | versatile |
 | Data Science Summit |  Warszawa | 2019-06-?? | [link](https://dssconf.pl/) || database |
 | SegFault	| Kielce	| 2019-05-31	| [link](http://segfault.events/)	|  | architecture |
 | Cloud Developer Days	| Warszawa	| 2019-05-27 - 2019-05-29	| [link](http://cloud.developerdays.pl/)	|  | cloud |
@@ -53,7 +54,6 @@
 | SegFault	| Gdańsk	| 2019-03-14 - 2019-03-15	| [link](http://segfault.events/)	| [link](https://www.youtube.com/channel/UCV38Do_3C5uVk3lWePkyxTA/videos) | architecture |
 | InfoMEET	| Kraków	| 2019-03-09	| [link](https://www.infomeet.pl/)	|  | versatile |
 | Mobile Trends Conference | Kraków | 2019-03-07 - 2019-03-08 | [link](https://2019.mobiletrends.pl/) | | mobile |
-| KarieraIT	| Gdańsk	| 2019-03-02	| 	|  | versatile |
 | Konferencja testerzy.pl | Gdańsk | 2019-03-01 | [link](http://konferencja.testerzy.pl/) || testing |
 | MEGA sekurak hacking party | Kraków | 2019-02-25 | [link](https://sekurak.pl/mega-sekurak-hacking-party-zapraszamy-na-impreze-jakiej-jeszcze-nie-bylo/) | | security |
 | test:fest | Wrocław | 2019-02-23 | [link](http://testfest.pl/) | | testing |
