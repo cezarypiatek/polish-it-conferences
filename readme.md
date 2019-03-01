@@ -60,6 +60,7 @@
 | Lambda Days	| Kraków	| 2019-02-21 - 2019-02-22	| [link](http://www.lambdadays.org/)	| [link](https://www.youtube.com/watch?v=RCU5WQDT8_8&list=PLWbHc_FXPo2jaxwnNB7KFEV7HYA0qHVxl) | functional-programming |
 | KarieraIT	| Wrocław	| 2019-02-16	| 	|  | versatile |
 | Pyrcode	| Poznań	| 2019-01-18	| [link](https://pyrcode.pl)	|  | versatile |
+| Cloud & Data Center Day 3 | Poznań | 2019-01-10 | [link](http://clouddatacenterday.pl/) | | cloud |
 
 
 ## 2018
