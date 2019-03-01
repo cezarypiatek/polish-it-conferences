@@ -52,7 +52,6 @@
 | KarieraIT	| Warszawa	| 2019-03-16	| 	|  | versatile |
 | InfoMEET	| Wrocław	| 2019-03-16	| [link](https://www.infomeet.pl/)	|  | versatile |
 | SegFault	| Gdańsk	| 2019-03-14 - 2019-03-15	| [link](http://segfault.events/)	| [link](https://www.youtube.com/channel/UCV38Do_3C5uVk3lWePkyxTA/videos) | architecture |
-| InfoMEET	| Kraków	| 2019-03-09	| [link](https://www.infomeet.pl/)	|  | versatile |
 | Mobile Trends Conference | Kraków | 2019-03-07 - 2019-03-08 | [link](https://2019.mobiletrends.pl/) | | mobile |
 | Konferencja testerzy.pl | Gdańsk | 2019-03-01 | [link](http://konferencja.testerzy.pl/) || testing |
 | MEGA sekurak hacking party | Kraków | 2019-02-25 | [link](https://sekurak.pl/mega-sekurak-hacking-party-zapraszamy-na-impreze-jakiej-jeszcze-nie-bylo/) | | security |
