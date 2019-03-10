@@ -24,6 +24,7 @@
 | KarieraIT	| Gdańsk	| 2019-06-01	| [link](https://careercon.pl/najblizsze-wydarzenia/)	|  | versatile |
 | Data Science Summit |  Warszawa | 2019-06-?? | [link](https://dssconf.pl/) || database |
 | SegFault	| Kielce	| 2019-05-31	| [link](http://segfault.events/)	|  | architecture |
+| AWS Summit Warsaw | Warszawa | 2019-05-30 | [link](https://aws.amazon.com/events/summits/warsaw/)| | cloud |
 | Cloud Developer Days	| Warszawa	| 2019-05-27 - 2019-05-29	| [link](http://cloud.developerdays.pl/)	|  | cloud |
 | Rzemiosło IT	| Rzeszów	| 2019-05-25	| [link](http://rzemioslo.it/)	|  | craftsmanship |
 | KarieraIT	| Poznań	| 2019-05-25	| 	|  | versatile |
