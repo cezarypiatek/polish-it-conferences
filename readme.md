@@ -49,6 +49,7 @@
 | KarieraIT	| Łódź	| 2019-03-23	| 	|  | versatile |
 | SFI	| Kraków	| 2019-03-21 - 2019-03-23	| [link](https://sfi.pl/)	| [link](https://www.youtube.com/user/StudenckiFestiwalInf/videos) | versatile |
 | Akademia Jakości - testowanie i jakość projektów IT | Warszawa | 2019-03-21 - 2019-03-22 | [link](http://successpoint.pl/akademia_jakosci_2019) || testing |
+|IT W SŁUŻBIE ZDROWIA | Wrocław | 2019-03-20 |[link](https://gigacon.org/event/sluzba_wro_19/) | | versatile |
 | SkładQA | Kraków | 2019-03-19| [link](http://kraqa.pl/) || testing |
 | KarieraIT	| Warszawa	| 2019-03-16	| 	|  | versatile |
 | InfoMEET	| Wrocław	| 2019-03-16	| [link](https://www.infomeet.pl/)	|  | versatile |
