@@ -3,6 +3,7 @@
 
 | Nazwa | Miasto | Data | Strona | Nagrania | Tematyka|
 |----------|:-------------:|:------|:------|:------|:------|
+| Frontend Con	| Warszawa	| 2018-11-26 - 2018-11-27	| [link](https://frontend-con.io/)	|  | frontend |
 | JOIN! The Database Conference| Warszawa | 2019-11-21 - 2019-11-22 | [link](http://join-conference.com/) | | database |
 | .NET Developer Days	| Warszawa	| 2019-10-23 - 2019-10-25	| [link](http://net.developerdays.pl/)	| [link](https://www.youtube.com/channel/UC_oRRPZrYP4gZQOJOcuTyUw/videos) | .net |
 | Game Industry Conference | Poznań | 2019-10-17 - 2019-10-20 | [link](https://gic.gd/) | | |game development|
