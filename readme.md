@@ -39,9 +39,10 @@
 | SQLDay | Wrocław | 2019-05-13 - 2019-05-15 | [link](https://sqlday.pl)|| database |
 | KarieraIT	| Katowice	| 2019-05-11	| 	|  | versatile |
 | infoShare	| Gdańsk	| 2019-05-08 - 2019-05-08	| [link](https://infoshare.pl/)	| [link](https://www.youtube.com/user/infoSharePL/playlists) | versatile |
+| GeekWeekWro#5 | Wrocław | 2019-04-27 | [link](http://geekweekwro.pl/) | |  versatile |
 | SegFault	| Łódź	| 2019-04-26	| [link](http://segfault.events/)	|  | architecture |
 | KarieraIT	| Rzeszów	| 2019-04-13	| 	|  | versatile |
-| InfoMEET	| Katowice	| 2019-04-13 	| [link](https://www.infomeet.pl/)	|  | versatile
+| InfoMEET	| Katowice	| 2019-04-13 	| [link](https://www.infomeet.pl/)	|  | versatile |
 | Lubelskie Dni Informatyki	| Lublin	| 2019-04-13	| [link](https://ldi.org.pl/)	|  | versatile |
 | 4Developers	| Warszawa	| 2019-04-08	| [link](https://4developers.org.pl/)	| [link](https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=13&view=50) | versatile |
 | ConSelenium |Łódź | 2019-04-04 - 2019-04-05 | [link](http://conselenium.pl/)|| testing |
