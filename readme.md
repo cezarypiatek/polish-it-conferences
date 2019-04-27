@@ -45,6 +45,7 @@
 | SegFault	| Łódź	| 2019-04-26	| [link](http://segfault.events/)	|  | architecture |
 | KarieraIT	| Rzeszów	| 2019-04-13	| 	|  | versatile |
 | InfoMEET	| Katowice	| 2019-04-13 	| [link](https://www.infomeet.pl/)	|  | versatile |
+| Ciemna strona UX | Kraków |2019-04-13 | [link](http://www.ciemnastronaux.pl/) | | design |
 | Lubelskie Dni Informatyki	| Lublin	| 2019-04-13	| [link](https://ldi.org.pl/)	|  | versatile |
 | 4Developers	| Warszawa	| 2019-04-08	| [link](https://4developers.org.pl/)	| [link](https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=13&view=50) | versatile |
 | ConSelenium |Łódź | 2019-04-04 - 2019-04-05 | [link](http://conselenium.pl/)|| testing |
