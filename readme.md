@@ -20,6 +20,7 @@
 | SegFault	| Warszawa	| Jesień 2019	| [link](http://segfault.events/)	|  | architecture |
 | DynamIT | Kraków | 2019-08-17 | [link](https://dynamit.pro/) |  | versatile |
 | Confitura	| Warszawa	| 2019-06-29	| [link](https://2019.confitura.pl/)	|  | java |
+| Quality Excites | Gliwice | 2019-06-29 | [link](https://www.qualityexcites.pl) | | testing |
 | Devoxx	| Kraków	| 2019-06-24 - 2019-06-27	| [link](http://devoxx.pl/)	| [link](https://www.youtube.com/watch?v=5VFOYM6DlJc&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH) | java, versatile |
 | Testing Cup | Poznań | 2019-06-10 - 2019-06-11 | [link](http://testingcup.pl/)|| testing|
 | Greenfield Conference	| Zielona Góra	| 2019-06-08	| [link](http://greenfieldconf.pl/)	| [link](https://www.youtube.com/channel/UChG7hsrjUYyYG13AkSIfQIw/videos) | versatile |
