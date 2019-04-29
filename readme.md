@@ -36,7 +36,6 @@
 | Rzemiosło IT	| Rzeszów	| 2019-05-25	| [link](http://rzemioslo.it/)	|  | craftsmanship |
 | KarieraIT	| Poznań	| 2019-05-25	| 	|  | versatile |
 | ACE! | Kraków | 2019-05-23 - 2019-05-24 | [link](https://aceconf.com/) | | versatile |
-| InfoMEET	| Łódź	| 2019-05-18	| [link](https://www.infomeet.pl/)	|  | versatile |
 | Cloud Native Warsaw | Warszawa | 2019-05-17 | [link](http://cloudnativewarsaw.com/) | | cloud |
 | GeeCON	| Kraków	| 2019-05-15 - 2019-05-17	| [link](https://geecon.org/)	| [link](https://www.youtube.com/channel/UCVnJYdr91EZW8YvtMrxB1bg/videos) | java |
 | SQLDay | Wrocław | 2019-05-13 - 2019-05-15 | [link](https://sqlday.pl)|| database |
