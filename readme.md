@@ -41,7 +41,7 @@
 | GeeCON	| Kraków	| 2019-05-15 - 2019-05-17	| [link](https://geecon.org/)	| [link](https://www.youtube.com/channel/UCVnJYdr91EZW8YvtMrxB1bg/videos) | java |
 | SQLDay | Wrocław | 2019-05-13 - 2019-05-15 | [link](https://sqlday.pl)|| database |
 | KarieraIT	| Katowice	| 2019-05-11	| 	|  | versatile |
-| infoShare	| Gdańsk	| 2019-05-08 - 2019-05-08	| [link](https://infoshare.pl/)	| [link](https://www.youtube.com/user/infoSharePL/playlists) | versatile |
+| infoShare	| Gdańsk	| 2019-05-08 - 2019-05-09	| [link](https://infoshare.pl/)	| [link](https://www.youtube.com/user/infoSharePL/playlists) | versatile |
 | GeekWeekWro#5 | Wrocław | 2019-04-27 | [link](http://geekweekwro.pl/) | |  versatile |
 | SegFault	| Łódź	| 2019-04-26	| [link](http://segfault.events/)	|  | architecture |
 | KarieraIT	| Rzeszów	| 2019-04-13	| 	|  | versatile |
