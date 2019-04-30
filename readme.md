@@ -16,6 +16,7 @@
 | meet.js Summit | Katowice | 2019-09-30 | [link](https://summit.meetjs.pl/2019/) | | frontend |
 | Programistok | Białystok | 2019-09-28 | [link](http://programistok.org/) | | versatile |
 | DevConf	| Kraków	| 2019-09-25 - 2019-09-27	| [link](http://devconf.pl)	| [link](https://www.youtube.com/channel/UCXp2tbIOcFe0WP1OaoREmWA/videos) | versatile |
+| Cloud Native Warsaw | Warszawa | 2019-09-09 - 2019-09-10 | [link](http://cloudnativewarsaw.com/) | | cloud |
 | React Native EU | Wrocław | 2019-09-05 - 2019-09-06 | [link](https://react-native.eu/) | | mobile |
 | SegFault	| Warszawa	| Jesień 2019	| [link](http://segfault.events/)	|  | architecture |
 | DynamIT | Kraków | 2019-08-17 | [link](https://dynamit.pro/) |  | versatile |
@@ -36,7 +37,6 @@
 | Rzemiosło IT	| Rzeszów	| 2019-05-25	| [link](http://rzemioslo.it/)	|  | craftsmanship |
 | KarieraIT	| Poznań	| 2019-05-25	| 	|  | versatile |
 | ACE! | Kraków | 2019-05-23 - 2019-05-24 | [link](https://aceconf.com/) | | versatile |
-| Cloud Native Warsaw | Warszawa | 2019-05-17 | [link](http://cloudnativewarsaw.com/) | | cloud |
 | GeeCON	| Kraków	| 2019-05-15 - 2019-05-17	| [link](https://geecon.org/)	| [link](https://www.youtube.com/channel/UCVnJYdr91EZW8YvtMrxB1bg/videos) | java |
 | SQLDay | Wrocław | 2019-05-13 - 2019-05-15 | [link](https://sqlday.pl)|| database |
 | KarieraIT	| Katowice	| 2019-05-11	| 	|  | versatile |
