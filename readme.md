@@ -16,6 +16,7 @@
 | meet.js Summit | Katowice | 2019-09-30 | [link](https://summit.meetjs.pl/2019/) | | frontend |
 | Programistok | Białystok | 2019-09-28 | [link](http://programistok.org/) | | versatile |
 | DevConf	| Kraków	| 2019-09-25 - 2019-09-27	| [link](http://devconf.pl)	| [link](https://www.youtube.com/channel/UCXp2tbIOcFe0WP1OaoREmWA/videos) | versatile |
+| BBDays4.IT | Bielsko-Biała | 2019-09-09 - 2019-09-15 | || versatile |
 | Cloud Native Warsaw | Warszawa | 2019-09-09 - 2019-09-10 | [link](http://cloudnativewarsaw.com/) | | cloud |
 | React Native EU | Wrocław | 2019-09-05 - 2019-09-06 | [link](https://react-native.eu/) | | mobile |
 | SegFault	| Warszawa	| Jesień 2019	| [link](http://segfault.events/)	|  | architecture |
