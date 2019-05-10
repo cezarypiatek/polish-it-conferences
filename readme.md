@@ -12,6 +12,7 @@
 | Dotnetos	| Warszawa	| 2019-10-10 - 2019-10-11	| [link](https://conf.dotnetos.org/)	|  | performance, .net |
 | ShareCon365 | Warszawa | 2019-10-08 |[link](http://www.sharecon365.pl/)|| .net |
 | Sphere.it	| Kraków	| 2019-10-06 - 2019-10-09	| [link](https://sphere.it/)	|  | versatile |
+| DotNETConfPL	| Internet	| 2019-10-04 - 2019-10-05	| [link](https://dotnetconf.pl/)	|  | versatile |
 | mobiconf | Kraków | 2019-10-03 - 2019-10-04 | [link](https://2018.mobiconf.org/) | | mobile|
 | meet.js Summit | Katowice | 2019-09-30 | [link](https://summit.meetjs.pl/2019/) | | frontend |
 | Programistok | Białystok | 2019-09-28 | [link](http://programistok.org/) | | versatile |
