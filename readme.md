@@ -5,8 +5,11 @@
 |----------|:-------------:|:------|:------|:------|:------|
 | Frontend Con	| Warszawa	| 2018-11-26 - 2018-11-27	| [link](https://frontend-con.io/)	|  | frontend |
 | JOIN! The Database Conference| Warszawa | 2019-11-21 - 2019-11-22 | [link](http://join-conference.com/) | | database |
+| 4Developers | Poznań | 2019-11-18 | [link](https://4developers.org.pl/poznan-2019/) | | versatile |
 | Security PWNing Conference | Warszawa | 2018-11-14 - 2018-11-15 | [link](https://www.instytutpwn.pl/konferencja/pwning/)   |  | security |
+| 4Developers | Wrocław | 2019-11-05 | [link](https://4developers.org.pl/wroclaw/) | | versatile |
 | .NET Developer Days	| Warszawa	| 2019-10-23 - 2019-10-25	| [link](http://net.developerdays.pl/)	| [link](https://www.youtube.com/channel/UC_oRRPZrYP4gZQOJOcuTyUw/videos) | .net |
+| 4Developers | Katowice | 2019-10-21 | [link](https://4developers.org.pl/katowice/) | | versatile |
 | Game Industry Conference | Poznań | 2019-10-17 - 2019-10-20 | [link](https://gic.gd/) | | |game development|
 | JDD	| Kraków	| 2019-10-14 - 2019-10-15| [link](https://www.jdd.org.pl)	|  | java |
 | Dotnetos	| Warszawa	| 2019-10-10 - 2019-10-11	| [link](https://conf.dotnetos.org/)	|  | performance, .net |
@@ -14,6 +17,7 @@
 | Sphere.it	| Kraków	| 2019-10-06 - 2019-10-09	| [link](https://sphere.it/)	|  | versatile |
 | DotNETConfPL	| Internet	| 2019-10-04 - 2019-10-05	| [link](https://dotnetconf.pl/)	|  | versatile |
 | mobiconf | Kraków | 2019-10-03 - 2019-10-04 | [link](https://2018.mobiconf.org/) | | mobile|
+| 4Developers | Kraków | 2019-10-01 | [link](https://4developers.org.pl/krakow/) | | versatile|
 | meet.js Summit | Katowice | 2019-09-30 | [link](https://summit.meetjs.pl/2019/) | | frontend |
 | Programistok | Białystok | 2019-09-28 | [link](http://programistok.org/) | | versatile |
 | DevConf	| Kraków	| 2019-09-25 - 2019-09-27	| [link](http://devconf.pl)	| [link](https://www.youtube.com/channel/UCXp2tbIOcFe0WP1OaoREmWA/videos) | versatile |
