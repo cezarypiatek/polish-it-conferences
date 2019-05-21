@@ -12,6 +12,7 @@
 | 4Developers | Katowice | 2019-10-21 | [link](https://4developers.org.pl/katowice/) | | versatile |
 | Game Industry Conference | Poznań | 2019-10-17 - 2019-10-20 | [link](https://gic.gd/) | | |game development|
 | JDD	| Kraków	| 2019-10-14 - 2019-10-15| [link](https://www.jdd.org.pl)	|  | java |
+| BSides Warsaw	| Warszawa	| 2019-11-11 - 2019-11-13| [link](https://securitybsides.pl/)	| [link](https://www.youtube.com/channel/UCexBIw_UJOz-H1PD9I9zkGw/videos) | security |
 | Dotnetos	| Warszawa	| 2019-10-10 - 2019-10-11	| [link](https://conf.dotnetos.org/)	|  | performance, .net |
 | ShareCon365 | Warszawa | 2019-10-08 |[link](http://www.sharecon365.pl/)|| .net |
 | Sphere.it	| Kraków	| 2019-10-06 - 2019-10-09	| [link](https://sphere.it/)	|  | versatile |
@@ -109,7 +110,7 @@
 | Test Dive	| Kraków	| 2018-10-18	| [link](http://www.testdive.pl/)	| [link](https://www.youtube.com/channel/UC-8YqwFBC15rMjJRzt3OY9A/videos) | testing |
 | Agile & Automation Days | Kraków | 2018-10-15 - 2018-10-16 | [link](http://aadays.pl)| [link](https://www.youtube.com/playlist?list=PLi88SNN9jMXx2IDLrMSzJRXsnR3dCg6xV) | testing, devops |
 | 4Developers	| Kraków	| 2018-10-15 | [link](https://krakow.4developers.org.pl/)	|  | versatile |
-| BSided Warsaw	| Warszawa	| 2018-10-12 - 2018-10-14| [link](https://securitybsides.pl/)	| [link](https://www.youtube.com/channel/UCexBIw_UJOz-H1PD9I9zkGw/videos) | security |
+| BSides Warsaw	| Warszawa	| 2018-10-12 - 2018-10-14| [link](https://securitybsides.pl/)	| [link](https://www.youtube.com/channel/UCexBIw_UJOz-H1PD9I9zkGw/videos) | security |
 | JDD	| Kraków	| 2018-10-08 | [link](https://www.jdd.org.pl)	|  | java |
 | mobiconf | Kraków | 2018-10-04 - 2018-10-05 | [link](https://2018.mobiconf.org/) | | mobile|
 | DataMass | Gdańsk | 2018-09-28 | [link](http://summit.datamass.io/) | | database |
