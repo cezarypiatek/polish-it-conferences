@@ -3,6 +3,7 @@
 
 | Nazwa | Miasto | Data | Strona | Nagrania | Tematyka|
 |----------|:-------------:|:------|:------|:------|:------|
+| What the Hack	| Warszawa	| 2019-11-30	| [link](https://wthconf.pl/)	|  | security |
 | Frontend Con	| Warszawa	| 2019-11-26 - 2019-11-27	| [link](https://frontend-con.io/)	|  | frontend |
 | JOIN! The Database Conference| Warszawa | 2019-11-21 - 2019-11-22 | [link](http://join-conference.com/) | | database |
 | 4Developers | Poznań | 2019-11-18 | [link](https://4developers.org.pl/poznan-2019/) | | versatile |
