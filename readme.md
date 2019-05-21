@@ -37,6 +37,7 @@
 | Testing Cup | Poznań | 2019-06-10 - 2019-06-11 | [link](http://testingcup.pl/)|| testing|
 | Greenfield Conference	| Zielona Góra	| 2019-06-08	| [link](http://greenfieldconf.pl/)	| [link](https://www.youtube.com/channel/UChG7hsrjUYyYG13AkSIfQIw/videos) | versatile |
 | KarieraIT	| Kraków	| 2019-06-08	| 	|  | versatile |
+| EXATEL Security Days	| Kraków	| 2019-06-05 - 2019-06-07	| [link](https://exatelsecuritydays.pl/)	|  | security |
 | Confidence	| Kraków	| 2019-06-03 - 2019-06-04	| [link](https://confidence-conference.org/)	| [link](https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=8&view=50) | security |
 | InfoMEET	| Warszawa	| 2019-06-01	| [link](https://www.infomeet.pl/)	|  | versatile
 | KarieraIT	| Gdańsk	| 2019-06-01	| [link](https://careercon.pl/najblizsze-wydarzenia/)	|  | versatile |
