@@ -44,6 +44,7 @@
 | Data Science Summit |  Warszawa | 2019-06-14 | [link](https://dssconf.pl/) || database |
 | REST Fest EU 2019 | Wrocław | 2019-05-31 - 2019-06-01 | [link](http://2019.restfest.org/eu/) | | web|
 | SegFault	| Kielce	| 2019-05-31	| [link](http://segfault.events/)	|  | architecture |
+| Security Summit World Tour | Kraków | 2019-05-30 | [link](https://content.akamai.com/em-en-ME12331-akamai-security-summit-2019-krakow.html) | | security |
 | AWS Summit Warsaw | Warszawa | 2019-05-30 | [link](https://aws.amazon.com/events/summits/warsaw/)| | cloud |
 | Cloud Developer Days	| Kraków	| 2019-05-27 - 2019-05-29	| [link](http://cloud.developerdays.pl/)	|  | cloud |
 | Rzemiosło IT	| Rzeszów	| 2019-05-25	| [link](http://rzemioslo.it/)	|  | craftsmanship |
