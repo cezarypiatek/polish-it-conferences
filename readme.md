@@ -35,14 +35,12 @@
 | Quality Excites | Gliwice | 2019-06-29 | [link](https://www.qualityexcites.pl) | | testing |
 | Devoxx	| Kraków	| 2019-06-24 - 2019-06-27	| [link](http://devoxx.pl/)	| [link](https://www.youtube.com/watch?v=5VFOYM6DlJc&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH) | java, versatile |
 | DevCrowd | Szczecin | 2019-06-15 | [link](http://devcrowd.pl)|| java, versatile|
+| Data Science Summit |  Warszawa | 2019-06-14 | [link](https://dssconf.pl/) || database |
 | Testing Cup | Poznań | 2019-06-10 - 2019-06-11 | [link](http://testingcup.pl/)|| testing|
 | Greenfield Conference	| Zielona Góra	| 2019-06-08	| [link](http://greenfieldconf.pl/)	| [link](https://www.youtube.com/channel/UChG7hsrjUYyYG13AkSIfQIw/videos) | versatile |
 | KarieraIT	| Kraków	| 2019-06-08	| 	|  | versatile |
 | EXATEL Security Days	| Kraków	| 2019-06-05 - 2019-06-07	| [link](https://exatelsecuritydays.pl/)	|  | security |
 | Confidence	| Kraków	| 2019-06-03 - 2019-06-04	| [link](https://confidence-conference.org/)	| [link](https://www.youtube.com/user/PROIDEAconferences/playlists?sort=dd&shelf_id=8&view=50) | security |
-| InfoMEET	| Warszawa	| 2019-06-01	| [link](https://www.infomeet.pl/)	|  | versatile
-| KarieraIT	| Gdańsk	| 2019-06-01	| [link](https://careercon.pl/najblizsze-wydarzenia/)	|  | versatile |
-| Data Science Summit |  Warszawa | 2019-06-14 | [link](https://dssconf.pl/) || database |
 | REST Fest EU 2019 | Wrocław | 2019-05-31 - 2019-06-01 | [link](http://2019.restfest.org/eu/) | | web|
 | SegFault	| Kielce	| 2019-05-31	| [link](http://segfault.events/)	|  | architecture |
 | Security Summit World Tour | Kraków | 2019-05-30 | [link](https://content.akamai.com/em-en-ME12331-akamai-security-summit-2019-krakow.html) | | security |
