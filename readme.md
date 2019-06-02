@@ -8,6 +8,7 @@
 | JOIN! The Database Conference| Warszawa | 2019-11-21 - 2019-11-22 | [link](http://join-conference.com/) | | database |
 | 4Developers | Poznań | 2019-11-18 | [link](https://4developers.org.pl/poznan-2019/) | | versatile |
 | Security PWNing Conference | Warszawa | 2018-11-14 - 2018-11-15 | [link](https://www.instytutpwn.pl/konferencja/pwning/)   |  | security |
+| Cloudyna 2019 | Katowice | 2019-11-13 | [link](https://cloudyna.net/) | | cloud |
 | 4Developers | Wrocław | 2019-11-05 | [link](https://4developers.org.pl/wroclaw/) | | versatile |
 | .NET Developer Days	| Warszawa	| 2019-10-23 - 2019-10-25	| [link](http://net.developerdays.pl/)	| [link](https://www.youtube.com/channel/UC_oRRPZrYP4gZQOJOcuTyUw/videos) | .net |
 | 4Developers | Katowice | 2019-10-21 | [link](https://4developers.org.pl/katowice/) | | versatile |
