@@ -30,7 +30,7 @@
 | Cloud Native Warsaw | Warszawa | 2019-09-09 - 2019-09-10 | [link](http://cloudnativewarsaw.com/) | | cloud |
 | PHPERS SUMMIT | Poznań | 2019-09-05 - 2019-09-07 | [link](https://summit.phpers.pl/pl/) || php |
 | React Native EU | Wrocław | 2019-09-05 - 2019-09-06 | [link](https://react-native.eu/) | | mobile |
-| SegFault	| Warszawa	| Jesień 2019	| [link](http://segfault.events/)	|  | architecture |
+| SegFault	| Warszawa	| 2019-09-27 | [link](http://segfault.events/)	|  | architecture |
 | DynamIT | Kraków | 2019-08-17 | [link](https://dynamit.pro/) |  | versatile |
 | Confitura	| Warszawa	| 2019-06-29	| [link](https://2019.confitura.pl/)	|  | java |
 | Quality Excites | Gliwice | 2019-06-29 | [link](https://www.qualityexcites.pl) | | testing |
