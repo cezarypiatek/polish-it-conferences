@@ -1,5 +1,5 @@
 
-Lista polskich konferencji:
+## Lista polskich konferencji:
 
 - [Konferencje 2020](/2020.md)
 - [Konferencje 2019](/2019.md)
