@@ -11,5 +11,6 @@
 Dodaj subskrypcję następującego adresu, aby widzieć listę nadchodzących konferencji w swoim kalendarzu:
 https://conferences.narzekasz.pl/
 
+Instrukcję jak zaimportować kalendarz znajdziesz w sekcji [doc](/doc)
 
 
