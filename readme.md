@@ -1,3 +1,4 @@
+![logo](logo.png)
 
 ## Lista polskich konferencji:
 
