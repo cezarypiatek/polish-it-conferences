@@ -17,4 +17,4 @@ Instrukcję jak zaimportować kalendarz znajdziesz w sekcji [doc](/doc)
 ## Zobacz też:
 
 * [polskie podkasty IT](https://github.com/hexmind/polish-it-podcasts)
-* [polski w IT](https://github.com/hexmind/polski-w-it)
+* [polski w IT](https://github.com/nurkiewicz/polski-w-it)
