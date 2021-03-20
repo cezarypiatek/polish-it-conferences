@@ -2,6 +2,7 @@
 
 ## Lista polskich konferencji:
 
+- [Konferencje 2021](/2021.md)
 - [Konferencje 2020](/2020.md)
 - [Konferencje 2019](/2019.md)
 - [Konferencje 2018](/2018.md)
